@@ -1,0 +1,311 @@
+{
+  "schema": "bcenv.public-archive-members.v1",
+  "archive_sha256": "957f99f4481b6c94450782d80c6f8bb81c85b81397d9cde4ca07c3ad573a86cf",
+  "members": [
+    {
+      "path": "cooperative-qualification.json",
+      "bytes": 20466,
+      "sha256": "d80b7c4b1fa2ab0176e109c3c6c05c3342c910006e7d67415ead02a491dcc55e"
+    },
+    {
+      "path": "diagnostic-selection.json",
+      "bytes": 104,
+      "sha256": "d4c0c0aa72baf53fda55189cede6ab7a94cd90154515238bf99c5b7b5da5862f"
+    },
+    {
+      "path": "active-selection.json",
+      "bytes": 99,
+      "sha256": "e50b1407a5849f610b7d7ea8913db46a5b01fde7dab6f2cc065db7ac74550d32"
+    },
+    {
+      "path": "fixtures/build-clock/artifact.json",
+      "bytes": 2217,
+      "sha256": "e447a37199967756fc835ce7d5a633a5ada1c7653e0fe5d8eaa5fe46bdd19409"
+    },
+    {
+      "path": "fixtures/build-clock/classes/testplayerclock/RobotPlayer.class",
+      "bytes": 418,
+      "sha256": "9ff84c116e0c8768a18ba2c886d08b1aa1e97b9627a7f9478a1b30ea80e80591"
+    },
+    {
+      "path": "fixtures/build-clock/classes/testplayerempty/RobotPlayer.class",
+      "bytes": 346,
+      "sha256": "58fb054e6170a1b2d160fae87cf6b00424c23284f7046ba5349e24e14982a07a"
+    },
+    {
+      "path": "fixtures/build-clock/compile.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "fixtures/build-clock/source/testplayerclock/RobotPlayer.java",
+      "bytes": 342,
+      "sha256": "f809d1a0ad58d8f33cf289148aa24b93843c8d7ab54ad5f2bf0f40f3745bd5ae"
+    },
+    {
+      "path": "fixtures/build-clock/source/testplayerempty/RobotPlayer.java",
+      "bytes": 337,
+      "sha256": "cc2e4c9bd7eb2de63819f3b6835094d5c4f615d408d1b9fb429bfc0ecc79c27f"
+    },
+    {
+      "path": "fixtures/build-clock/verify.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "fixtures/build-empty/artifact.json",
+      "bytes": 2217,
+      "sha256": "4d077da833a09afb2e0eb1674eb30b11d5636ad140aa7c0aeaaf063f2e6a5184"
+    },
+    {
+      "path": "fixtures/build-empty/classes/testplayerclock/RobotPlayer.class",
+      "bytes": 418,
+      "sha256": "9ff84c116e0c8768a18ba2c886d08b1aa1e97b9627a7f9478a1b30ea80e80591"
+    },
+    {
+      "path": "fixtures/build-empty/classes/testplayerempty/RobotPlayer.class",
+      "bytes": 346,
+      "sha256": "58fb054e6170a1b2d160fae87cf6b00424c23284f7046ba5349e24e14982a07a"
+    },
+    {
+      "path": "fixtures/build-empty/compile.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "fixtures/build-empty/source/testplayerclock/RobotPlayer.java",
+      "bytes": 342,
+      "sha256": "f809d1a0ad58d8f33cf289148aa24b93843c8d7ab54ad5f2bf0f40f3745bd5ae"
+    },
+    {
+      "path": "fixtures/build-empty/source/testplayerempty/RobotPlayer.java",
+      "bytes": 337,
+      "sha256": "cc2e4c9bd7eb2de63819f3b6835094d5c4f615d408d1b9fb429bfc0ecc79c27f"
+    },
+    {
+      "path": "fixtures/build-empty/verify.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "fixtures/fixture-query/query-result.json",
+      "bytes": 1140,
+      "sha256": "bfedcd2a4401f12f5d07cd2c8c5694ae623d56ff21f67d644b709b5f7445feea"
+    },
+    {
+      "path": "fixtures/fixture-query/replay-query.json",
+      "bytes": 3830,
+      "sha256": "fd96d33fcddab76a16317cd74141ad83f1b0720e735e6123a7370c2199764c84"
+    },
+    {
+      "path": "fixtures/fixture-query/replay-query.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "fixtures/invalid-build/artifact.json",
+      "bytes": 1236,
+      "sha256": "831aca614078fd991185ca2704794d3307b3c1c5bc64f2aea554b1054292dd34"
+    },
+    {
+      "path": "fixtures/invalid-build/compile.log",
+      "bytes": 202,
+      "sha256": "f564f17585d9ce5c4f82001bb3b62ce3633ed3d8a3196740d48188a0e97d9ae8"
+    },
+    {
+      "path": "fixtures/invalid-build/source/broken/RobotPlayer.java",
+      "bytes": 60,
+      "sha256": "28f87067356e81548383e682948c9f939317097d6825fba13a029539d3b675cf"
+    },
+    {
+      "path": "fixtures/match-one/engine.log",
+      "bytes": 912,
+      "sha256": "74b32ac1c305236762091848143e9a58a5086b06e6525ef14e6955c8e63be837"
+    },
+    {
+      "path": "fixtures/match-one/maps/DefaultMap.map23",
+      "bytes": 14616,
+      "sha256": "a53211fc3fb4cc6427693f6f65b0732cc4bdf9ecb90f911ffbd71b5af82bb910"
+    },
+    {
+      "path": "fixtures/match-one/replay-extractor.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "fixtures/match-one/replay-summary.json",
+      "bytes": 6804,
+      "sha256": "6f65a2a777851d245eb01076b179febf49a968da894b187fcd6288f186ba5660"
+    },
+    {
+      "path": "fixtures/match-one/replay.bc23",
+      "bytes": 101430,
+      "sha256": "c6ac035b77865d3113277051f049a7bb88d6257179d0b39a610275f115b6298a"
+    },
+    {
+      "path": "fixtures/match-one/result.json",
+      "bytes": 3937,
+      "sha256": "3e8537a86ceb53c71d10775a60eeffe074f2fea5f24ac3fad4e512c649ef5bef"
+    },
+    {
+      "path": "fixtures/match-one/team-A/testplayerclock/RobotPlayer.class",
+      "bytes": 418,
+      "sha256": "9ff84c116e0c8768a18ba2c886d08b1aa1e97b9627a7f9478a1b30ea80e80591"
+    },
+    {
+      "path": "fixtures/match-one/team-A/testplayerempty/RobotPlayer.class",
+      "bytes": 346,
+      "sha256": "58fb054e6170a1b2d160fae87cf6b00424c23284f7046ba5349e24e14982a07a"
+    },
+    {
+      "path": "fixtures/match-one/team-B/testplayerclock/RobotPlayer.class",
+      "bytes": 418,
+      "sha256": "9ff84c116e0c8768a18ba2c886d08b1aa1e97b9627a7f9478a1b30ea80e80591"
+    },
+    {
+      "path": "fixtures/match-one/team-B/testplayerempty/RobotPlayer.class",
+      "bytes": 346,
+      "sha256": "58fb054e6170a1b2d160fae87cf6b00424c23284f7046ba5349e24e14982a07a"
+    },
+    {
+      "path": "fixtures/match-repeat/engine.log",
+      "bytes": 912,
+      "sha256": "8930fee5c8ca5b759877274629c24d2d56ddbb6d901aeac5ffad678ef9420352"
+    },
+    {
+      "path": "fixtures/match-repeat/maps/DefaultMap.map23",
+      "bytes": 14616,
+      "sha256": "a53211fc3fb4cc6427693f6f65b0732cc4bdf9ecb90f911ffbd71b5af82bb910"
+    },
+    {
+      "path": "fixtures/match-repeat/replay-extractor.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "fixtures/match-repeat/replay-summary.json",
+      "bytes": 6804,
+      "sha256": "c92a815a20ad0b56a1d9ec21087be0c37be4a67e012b220f1e33bd55dd32eb85"
+    },
+    {
+      "path": "fixtures/match-repeat/replay.bc23",
+      "bytes": 101431,
+      "sha256": "158d807947f181a6162914926f9c0ef9f968021953ce0048e1653a2ffc54c9a6"
+    },
+    {
+      "path": "fixtures/match-repeat/result.json",
+      "bytes": 3964,
+      "sha256": "b6802d86c8343a246f243ee9bd85a74c3811e4d94075b57fc9e7f7a75e8be062"
+    },
+    {
+      "path": "fixtures/match-repeat/team-A/testplayerclock/RobotPlayer.class",
+      "bytes": 418,
+      "sha256": "9ff84c116e0c8768a18ba2c886d08b1aa1e97b9627a7f9478a1b30ea80e80591"
+    },
+    {
+      "path": "fixtures/match-repeat/team-A/testplayerempty/RobotPlayer.class",
+      "bytes": 346,
+      "sha256": "58fb054e6170a1b2d160fae87cf6b00424c23284f7046ba5349e24e14982a07a"
+    },
+    {
+      "path": "fixtures/match-repeat/team-B/testplayerclock/RobotPlayer.class",
+      "bytes": 418,
+      "sha256": "9ff84c116e0c8768a18ba2c886d08b1aa1e97b9627a7f9478a1b30ea80e80591"
+    },
+    {
+      "path": "fixtures/match-repeat/team-B/testplayerempty/RobotPlayer.class",
+      "bytes": 346,
+      "sha256": "58fb054e6170a1b2d160fae87cf6b00424c23284f7046ba5349e24e14982a07a"
+    },
+    {
+      "path": "fixtures/match-swapped/engine.log",
+      "bytes": 912,
+      "sha256": "9f7af0fb078d19cfd258f99cfbcf657ae0ee289c066fd0d63f1d9f924271a8af"
+    },
+    {
+      "path": "fixtures/match-swapped/maps/DefaultMap.map23",
+      "bytes": 14616,
+      "sha256": "a53211fc3fb4cc6427693f6f65b0732cc4bdf9ecb90f911ffbd71b5af82bb910"
+    },
+    {
+      "path": "fixtures/match-swapped/replay-extractor.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "fixtures/match-swapped/replay-summary.json",
+      "bytes": 6806,
+      "sha256": "c35f141b23bc42e80683be9516dfadd5cf6b28d489a8b2c8372f8a2f651eda9c"
+    },
+    {
+      "path": "fixtures/match-swapped/replay.bc23",
+      "bytes": 101433,
+      "sha256": "e56e0524f0d94a2f2746cdd8b00e64521705906294953d3426d0950b8b3344db"
+    },
+    {
+      "path": "fixtures/match-swapped/result.json",
+      "bytes": 3973,
+      "sha256": "50dedc4e910fea12b9bc5db9de0b94e4983d938a0b997b32491a783b31058e06"
+    },
+    {
+      "path": "fixtures/match-swapped/team-A/testplayerclock/RobotPlayer.class",
+      "bytes": 418,
+      "sha256": "9ff84c116e0c8768a18ba2c886d08b1aa1e97b9627a7f9478a1b30ea80e80591"
+    },
+    {
+      "path": "fixtures/match-swapped/team-A/testplayerempty/RobotPlayer.class",
+      "bytes": 346,
+      "sha256": "58fb054e6170a1b2d160fae87cf6b00424c23284f7046ba5349e24e14982a07a"
+    },
+    {
+      "path": "fixtures/match-swapped/team-B/testplayerclock/RobotPlayer.class",
+      "bytes": 418,
+      "sha256": "9ff84c116e0c8768a18ba2c886d08b1aa1e97b9627a7f9478a1b30ea80e80591"
+    },
+    {
+      "path": "fixtures/match-swapped/team-B/testplayerempty/RobotPlayer.class",
+      "bytes": 346,
+      "sha256": "58fb054e6170a1b2d160fae87cf6b00424c23284f7046ba5349e24e14982a07a"
+    },
+    {
+      "path": "fixtures/repeat-evidence.json",
+      "bytes": 240,
+      "sha256": "ecc3e5d1431f8d2e13843634cf43eee416ed9e16900d468f46ddc969f141cc4c"
+    },
+    {
+      "path": "fixtures/submission/package.json",
+      "bytes": 450,
+      "sha256": "b113658f051785256d0530fe8bab02660e6fe44fac8eecd8b86a8c5a1f158527"
+    },
+    {
+      "path": "fixtures/submission/source.zip",
+      "bytes": 707,
+      "sha256": "f50fdd96594fd27eb9124a67f224440e54442ef5785bea28a7b03bbb34336f59"
+    },
+    {
+      "path": "flake.lock",
+      "bytes": 564,
+      "sha256": "74e82887c605bf915315abfe5fe722cb45dcda293f6808de48375b75a68862d5"
+    },
+    {
+      "path": "manifest.json",
+      "bytes": 2725,
+      "sha256": "35eab2be35df391ed70a0adeb0bd479b25da75314df71723955428b516cb6903"
+    },
+    {
+      "path": "qualification-identity.json",
+      "bytes": 24052,
+      "sha256": "07a03b7ca003242b72b1603d910a6ae437b7a1431908d32a9f9b0d17908c6c89"
+    },
+    {
+      "path": "revision.txt",
+      "bytes": 41,
+      "sha256": "95520c4b506bc4528d86c256eb7acf24964318d717edd2cb4c5ff3f342a476b1"
+    },
+    {
+      "path": "store-path.json",
+      "bytes": 667,
+      "sha256": "d87a5fe55a1a62410bd9e2c20d0f0f59c5b16af1daf591180d2d93e6090986e5"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema": "bcenv.public-ci-source.v1",
+  "classification": "public-engineering-only",
+  "repository": "https://github.com/anicolao/bcenv",
+  "workflow_run_id": 39907463430,
+  "workflow_url": "https://github.com/anicolao/bcenv/actions/runs/39907463430",
+  "workflow_head": "9938eb130f6645162db76efd87f2376edd718cee",
+  "workflow_conclusion": "success",
+  "artifact_id": 12480788630,
+  "artifact_name": "bc23-foundation-evidence",
+  "artifact_size_bytes": 269104,
+  "artifact_sha256": "957f99f4481b6c94450782d80c6f8bb81c85b81397d9cde4ca07c3ad573a86cf",
+  "artifact_created_at": "2026-10-23T05:46:04Z",
+  "artifact_expires_at": "2027-01-21T05:44:47Z",
+  "artifact_metadata_url": "https://api.github.com/repos/anicolao/bcenv/actions/artifacts/12480788630",
+  "retrieved_at": "2026-10-23T12:46:33Z",
+  "archive_revision_txt": "d49ffa4280e0a9e2395eae4b6a93f138613ef785",
+  "document_url": "https://github.com/anicolao/bcenv/blob/9938eb130f6645162db76efd87f2376edd718cee/docs/EVALUATION-TIMEOUT-CENSORING.md",
+  "document_git_blob_sha": "0bb916dad8212c199ab8357c9e37ea1159f506ea",
+  "document_sha256": "4ec7bfcd89b308bd421dcb9ba824030c811e28082190d8f24f611121db756ed3"
+}

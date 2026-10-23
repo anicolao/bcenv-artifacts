@@ -1,0 +1,40 @@
+{
+  "schema": "bcenv.public-retention-checkpoint.v1",
+  "checkpoint": "public-ci-001",
+  "destination_repo_id": 1431035719,
+  "visibility": "public",
+  "scope": "existing public engineering evidence only",
+  "total_payload_bytes": 291168,
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2992,
+      "sha256": "62fb29b10ff8b4c04691c1ac2adc925976b72d4f051371b45ae5d93687e8b449"
+    },
+    {
+      "path": "checkpoints/public-ci-001/EVALUATION-TIMEOUT-CENSORING.md",
+      "bytes": 5848,
+      "sha256": "4ec7bfcd89b308bd421dcb9ba824030c811e28082190d8f24f611121db756ed3"
+    },
+    {
+      "path": "checkpoints/public-ci-001/RETRIEVAL-REPORT.md",
+      "bytes": 1149,
+      "sha256": "2759e87790c80d52c59689451b612ad08ad007ff326052f9084201f4d5f87dc0"
+    },
+    {
+      "path": "checkpoints/public-ci-001/ci-evidence.zip",
+      "bytes": 269104,
+      "sha256": "957f99f4481b6c94450782d80c6f8bb81c85b81397d9cde4ca07c3ad573a86cf"
+    },
+    {
+      "path": "checkpoints/public-ci-001/provenance.json",
+      "bytes": 1168,
+      "sha256": "e6d013aa2281c457fe8c41e612b76ff8a04eec9e97e6a626ca53182c791beac4"
+    },
+    {
+      "path": "checkpoints/public-ci-001/zip-members.json",
+      "bytes": 10907,
+      "sha256": "2e6132790a52b9d47ea0a2ea2062120fa6a21b807cdf00bff1dfb7782e05cdc8"
+    }
+  ]
+}
